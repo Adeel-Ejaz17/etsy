@@ -1,0 +1,6 @@
+{
+  "name": "Etsy Design USP & AI Prompt Studio",
+  "description": "Analyze Etsy digital product designs and screenshots for unique selling propositions (USPs) and weak points, then generate high-converting AI prompts for Midjourney, FLUX, and Ideogram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
